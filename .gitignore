@@ -1,0 +1,7 @@
+# dados pessoais de quem usa o quadro (nunca vão pro git)
+quadro.json
+quadro.bak.json
+*.antes-*
+*.novo.*
+anexos/
+__pycache__/
